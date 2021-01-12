@@ -26,7 +26,6 @@ printf("No. of notes of 2 is %d\n",notes);
 amount%=2;
 sum+=notes;
 printf("No. of notes of 1 is %d\n",amount);
-return 0;
 sum+=amount;
 printf("Total no. of notes %d\n",sum);
 return 0;
